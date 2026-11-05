@@ -8,6 +8,7 @@ Veridi's delivery estimates are generally conservative rather than over-optimist
 
 - **Link to Notebook:** https://colab.research.google.com/drive/141awNcubpaeYd603ZeWdsoUbG628xOHu
 - **Link to Dashboard:** https://deg-veridi-last-mile-audit-01.streamlit.app/
+- **Link to Presentation:** https://github.com/benjamina03/DEG-veridi-last-mile-audit/blob/main/Veridi%20Last-Mile%20Audit%20Presentation%20Deck.pdf
 
 
 Files in this repo: `olist_last_mile_audit.ipynb` (notebook), `olist_last_mile_audit.ipynb - Colab` (export of the notebook with all charts), `app.py` + `requirements.txt` (dashboard), `dashboard_data/` (small CSVs exported by the notebook). The raw Olist CSVs are not included; download them from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
